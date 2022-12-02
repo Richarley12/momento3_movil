@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">158016942840-q3nl0m836agn3b9db2kb866mt5l4p43m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">158016942840</string>
+    <string name="google_api_key" translatable="false">AIzaSyBqbUxZLJnQjiBiG1CAWEfKtybEIbhn6E0</string>
+    <string name="google_app_id" translatable="false">1:158016942840:android:79417ad503861dbd31810d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBqbUxZLJnQjiBiG1CAWEfKtybEIbhn6E0</string>
+    <string name="google_storage_bucket" translatable="false">cevicheria-622a0.appspot.com</string>
+    <string name="project_id" translatable="false">cevicheria-622a0</string>
+</resources>

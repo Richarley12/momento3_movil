@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158016942840",
+    "project_id": "cevicheria-622a0",
+    "storage_bucket": "cevicheria-622a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158016942840:android:79417ad503861dbd31810d",
+        "android_client_info": {
+          "package_name": "com.example.cevicheriaalexander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158016942840-q3nl0m836agn3b9db2kb866mt5l4p43m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbUxZLJnQjiBiG1CAWEfKtybEIbhn6E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158016942840-q3nl0m836agn3b9db2kb866mt5l4p43m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

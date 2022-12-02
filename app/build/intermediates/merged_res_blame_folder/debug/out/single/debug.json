@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_to_bottom_anim.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\to_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_food_two.png.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\food_two.png"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_rigth_out.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\rigth_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_left_in.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\layout_activity_usuarios.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\layout\\activity_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_rigth_in.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\rigth_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_rotate_open_anim.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\rotate_open_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_login.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_rotate_close_anim.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\rotate_close_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_left_out.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\font_hammersmith_one.ttf.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\font\\hammersmith_one.ttf"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_borrar.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_borrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_logo_negocio.png.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\logo_negocio.png"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\layout_activity_usua.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\layout\\activity_usua.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_above_out.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\above_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_above_in.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\above_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_from_bottom_anim.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\from_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_food_img2.png.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\food_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_down_out.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_background_red.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\background_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\font_san_francisco.ttf.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\font\\san_francisco.ttf"
+    },
+    {
+        "merged": "com.example.cevicheriaalexander.app-merged_res-33:/layout_activity_usuarios.xml.flat",
+        "source": "com.example.cevicheriaalexander.app-main-35:/layout/activity_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_bg_overlay.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_foto_alex_circle.png.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\foto_alex_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_ic_volver_atras.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\ic_volver_atras.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_background_blue.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\background_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\anim_down_in.xml.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\anim\\down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_blue_bg.png.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\blue_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-merged_res-33:\\drawable_food_img3.png.flat",
+        "source": "C:\\Users\\richa\\.gradle\\daemon\\7.3.3\\com.example.cevicheriaalexander.app-main-35:\\drawable\\food_img3.png"
+    }
+]

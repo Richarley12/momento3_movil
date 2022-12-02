@@ -6,4 +6,13 @@
     <string name="label_nuevoUser"><u>Nuevo Usuario ? Registrarme Ahora</u></string>
     <string name="label_olvide_password">Olvide mi contraseña ?</string>
     <string name="hola_identif_quese_para_iniciar_sesi_n">Hola ! - Identifíquese para iniciar sesión</string>
+    <string name="registro">Hola ! - Por favor regístrate</string>
+    <string name="cedula">Cédula</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="hola_bienvenido">Hola! Bienvenido</string>
+    <string name="consultar">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="anular">Anular</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="volver_atr_s">Volver atrás</string>
 </resources>
